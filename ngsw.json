@@ -1,0 +1,88 @@
+{
+  "configVersion": 1,
+  "timestamp": 1660835888433,
+  "appData": {
+    "version": 0
+  },
+  "index": "/xmworkers/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/xmworkers/10.3616c0681f7462d7e2d4.js",
+        "/xmworkers/11.786d08587799b6a5028e.js",
+        "/xmworkers/12.f65116fa1a925d0b0fcf.js",
+        "/xmworkers/5.279d8698b31126bb999d.js",
+        "/xmworkers/6.b901be4f6bceb1aa8a98.js",
+        "/xmworkers/7.c66fa9f5e945fda5f832.js",
+        "/xmworkers/8.7b70700f702e1e51bbad.js",
+        "/xmworkers/9.40eea05680f9830ba44d.js",
+        "/xmworkers/assets/favicon.png",
+        "/xmworkers/common.118b07c3c9f930230b8f.js",
+        "/xmworkers/index.html",
+        "/xmworkers/main.02742aa11d67db88fe98.js",
+        "/xmworkers/manifest.webmanifest",
+        "/xmworkers/polyfills.42f0d3ba4adf9d502fa7.js",
+        "/xmworkers/runtime.9752c1518059aa0fafc7.js",
+        "/xmworkers/styles.3108c51c8090de7b12d8.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/xmworkers/assets/logo.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/xmworkers/10.3616c0681f7462d7e2d4.js": "d3803cbafb1952868bc6b42c5f6a704439a48072",
+    "/xmworkers/11.786d08587799b6a5028e.js": "fddc8b902b44fd90dd5feea0f1076d3b96b2572f",
+    "/xmworkers/12.f65116fa1a925d0b0fcf.js": "06be777ce42ae5f40b351fd9cd6851417ec2db38",
+    "/xmworkers/5.279d8698b31126bb999d.js": "54d07eacff80f533e4fc8c11922f012a4829b02f",
+    "/xmworkers/6.b901be4f6bceb1aa8a98.js": "706badeb823f21fc67ff2f14ba13778c19900b8e",
+    "/xmworkers/7.c66fa9f5e945fda5f832.js": "12348d0a5f0b90ef77ecd76ee5c617838ce79c10",
+    "/xmworkers/8.7b70700f702e1e51bbad.js": "2e00452c30485c878af7d6d295bb4cbdd9b3c4a5",
+    "/xmworkers/9.40eea05680f9830ba44d.js": "36522b4d172773ccf56f665a014d68247eb915dd",
+    "/xmworkers/assets/favicon.png": "5dcd1193f8a1bdead3f1b033a4ae28990a030c13",
+    "/xmworkers/assets/logo.png": "7065edf07fb0a1e6d828d3dc8d9a2d9d3ecaec95",
+    "/xmworkers/common.118b07c3c9f930230b8f.js": "1e479f0e645e38e47eba4cb8e03cbfc3a02c1bb2",
+    "/xmworkers/index.html": "6b2bd3ac5265d22ef828a36b50d60d40e29174cf",
+    "/xmworkers/main.02742aa11d67db88fe98.js": "4a354e6bae27a5f54c252a40fe33aeb072299d68",
+    "/xmworkers/manifest.webmanifest": "fc05711a5cdd2594f8f9172efdfb2f66f497ccbc",
+    "/xmworkers/polyfills.42f0d3ba4adf9d502fa7.js": "17162116bf1a1005e5ef374cdaa4135b9443354b",
+    "/xmworkers/runtime.9752c1518059aa0fafc7.js": "76f08dd07f61e3bc2467ae4d00bce8eadfc522a8",
+    "/xmworkers/styles.3108c51c8090de7b12d8.css": "1401177efabd655efa6697487ca55e1a45376300"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
